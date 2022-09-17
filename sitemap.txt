@@ -12,5 +12,5 @@ http://zxczh.github.io/tags/hexo/
 http://zxczh.github.io/tags/Java/
 http://zxczh.github.io/tags/%E4%BD%9C%E4%B8%9A/
 http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/
-http://zxczh.github.io/categories/Java/
 http://zxczh.github.io/categories/Linux/
+http://zxczh.github.io/categories/Java/
