@@ -1,3 +1,4 @@
+http://zxczh.github.io/2022/09/17/%E5%9C%A8%E6%82%A8%E7%9A%84centOS%E4%B8%8A%E8%BF%90%E8%A1%8C%E4%B8%80%E8%BE%86%E5%B0%8F%E7%81%AB%E8%BD%A6/
 http://zxczh.github.io/2022/09/14/%E6%88%91%E4%BB%AC%E7%9A%84java%E4%BD%9C%E4%B8%9A/
 http://zxczh.github.io/2022/09/12/%E9%81%87%E5%88%B0%E7%9A%84hexo%E4%B8%AD%E7%9A%84%E9%82%A3%E4%BA%9B%E5%B0%8F%E9%97%AE%E9%A2%98/
 http://zxczh.github.io/comment/index.html
@@ -12,3 +13,4 @@ http://zxczh.github.io/tags/Java/
 http://zxczh.github.io/tags/%E4%BD%9C%E4%B8%9A/
 http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/
 http://zxczh.github.io/categories/Java/
+http://zxczh.github.io/categories/Linux/

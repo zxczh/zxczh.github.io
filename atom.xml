@@ -6,7 +6,7 @@
   <link href="http://zxczh.github.io/atom.xml" rel="self"/>
   
   <link href="http://zxczh.github.io/"/>
-  <updated>2022-09-15T08:31:35.587Z</updated>
+  <updated>2022-09-17T03:03:54.289Z</updated>
   <id>http://zxczh.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在您的cent OS上运行一辆小火车</title>
+    <link href="http://zxczh.github.io/2022/09/17/%E5%9C%A8%E6%82%A8%E7%9A%84centOS%E4%B8%8A%E8%BF%90%E8%A1%8C%E4%B8%80%E8%BE%86%E5%B0%8F%E7%81%AB%E8%BD%A6/"/>
+    <id>http://zxczh.github.io/2022/09/17/%E5%9C%A8%E6%82%A8%E7%9A%84centOS%E4%B8%8A%E8%BF%90%E8%A1%8C%E4%B8%80%E8%BE%86%E5%B0%8F%E7%81%AB%E8%BD%A6/</id>
+    <published>2022-09-16T16:00:00.000Z</published>
+    <updated>2022-09-17T03:03:54.289Z</updated>
+    
+    <content type="html"><![CDATA[<p>sl 命令，可以让Linux的桌面上出现一辆小火车</p><p>但是使用前需要先安装此命令，安装也很简单</p><p>以cent OS 7为例，来看一下安装方法:</p><h1 id="一-首先切换到root用户"><a href="#一-首先切换到root用户" class="headerlink" title="一 首先切换到root用户"></a>一 首先切换到root用户</h1><p> 在命令行窗口输入 <code>su root</code></p><h1 id="二-开始安装"><a href="#二-开始安装" class="headerlink" title="二 开始安装"></a>二 开始安装</h1><h2 id="正常流程"><a href="#正常流程" class="headerlink" title="正常流程"></a>正常流程</h2><ol><li><p>下载yum源</p><p><code> wget http://mirror.centos.org/centos/7/extras/x86_64/Packages/epel-release-7-11.noarch.rpm</code></p></li><li><p>安装yum源</p><p><code>yum install -y epel-release-7-11.noarch.rpm</code></p></li><li><p>安装 sl</p><p><code>yum install -y sl</code></p></li><li><p>运行</p><p>直接输入 sl 便可以运行啦</p></li></ol><h2 id="遇到问题"><a href="#遇到问题" class="headerlink" title="遇到问题"></a>遇到问题</h2><p>在安装中，你可能会收到提示</p><p><code>另一个应用程序是：PackageKit</code></p><p>只需要</p><p><code>rm -f /var/run/yum.pid</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;sl 命令，可以让Linux的桌面上出现一辆小火车&lt;/p&gt;
+&lt;p&gt;但是使用前需要先安装此命令，安装也很简单&lt;/p&gt;
+&lt;p&gt;以cent OS 7为例，来看一下安装方法:&lt;/p&gt;
+&lt;h1 id=&quot;一-首先切换到root用户&quot;&gt;&lt;a href=&quot;#一-首先切换到root用户&quot; c</summary>
+      
+    
+    
+    
+    <category term="Linux" scheme="http://zxczh.github.io/categories/Linux/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>我们的Java作业</title>
