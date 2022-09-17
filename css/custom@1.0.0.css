@@ -73,25 +73,18 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
 }
 
 /* 滚动条 */
-
-::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
-}
-
 ::-webkit-scrollbar-thumb {
-    background-color: rgb(181, 181, 181);
-    background-image: -webkit-linear-gradient( 45deg, rgba(255, 255, 255, 0.4) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.4) 75%, transparent 75%, transparent);
-    border-radius: 2em;
+    background-color: #acacac;
+    /* background-image: -webkit-linear-gradient(45deg,rgb(255, 255, 255) 25%,transparent 25%,transparent 50%,rgb(255, 255, 255) 50%,rgb(255, 255, 255) 75%,transparent 75%,transparent); */
+    border-radius: 3em;
 }
-
-::-webkit-scrollbar-corner {
-    background-color: transparent;
+::-webkit-scrollbar-track {
+    background-color: rgb(255, 255, 255);
+    border-radius: 3em;
 }
-
-::-moz-selection {
-    color: #fff;
-    background-color: #344648;
+::-webkit-scrollbar {
+    width: 8px;
+    height: 15px;
 }
 
 

@@ -83,20 +83,6 @@
 
   
   <url>
-    <loc>http://zxczh.github.io/tags/Java/</loc>
-    <lastmod>2022-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://zxczh.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2022-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://zxczh.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-09-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,10 +96,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://zxczh.github.io/tags/Java/</loc>
+    <lastmod>2022-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zxczh.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
+    <lastmod>2022-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>http://zxczh.github.io/categories/Linux/</loc>
+    <loc>http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -127,7 +127,7 @@
   </url>
   
   <url>
-    <loc>http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://zxczh.github.io/categories/Linux/</loc>
     <lastmod>2022-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
