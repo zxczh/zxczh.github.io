@@ -92,14 +92,14 @@
 
   
   <url>
-    <loc>http://zxczh.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://zxczh.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
     <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://zxczh.github.io/tags/hexo/</loc>
+    <loc>http://zxczh.github.io/tags/Hadoop/</loc>
     <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -120,14 +120,14 @@
   </url>
   
   <url>
-    <loc>http://zxczh.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
+    <loc>http://zxczh.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://zxczh.github.io/tags/Hadoop/</loc>
+    <loc>http://zxczh.github.io/tags/hexo/</loc>
     <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -136,14 +136,7 @@
 
   
   <url>
-    <loc>http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-09-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://zxczh.github.io/categories/Linux/</loc>
+    <loc>http://zxczh.github.io/categories/Hadoop/</loc>
     <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -157,7 +150,14 @@
   </url>
   
   <url>
-    <loc>http://zxczh.github.io/categories/Hadoop/</loc>
+    <loc>http://zxczh.github.io/categories/Linux/</loc>
+    <lastmod>2022-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
