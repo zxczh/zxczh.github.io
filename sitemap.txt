@@ -8,12 +8,14 @@ http://zxczh.github.io/tags/index.html
 http://zxczh.github.io/categories/index.html
 http://zxczh.github.io/2022/09/11/hexo%E5%A4%87%E5%BF%98%E5%BD%95/
 http://zxczh.github.io/
-http://zxczh.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE-Hadoop/
 http://zxczh.github.io/tags/%E6%B5%8B%E8%AF%95/
 http://zxczh.github.io/tags/hexo/
 http://zxczh.github.io/tags/Java/
 http://zxczh.github.io/tags/%E4%BD%9C%E4%B8%9A/
-http://zxczh.github.io/categories/Hadoop-%E5%A4%A7%E6%95%B0%E6%8D%AE/
+http://zxczh.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/
+http://zxczh.github.io/tags/Hadoop/
 http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/
 http://zxczh.github.io/categories/Linux/
 http://zxczh.github.io/categories/Java/
+http://zxczh.github.io/categories/Hadoop/
+http://zxczh.github.io/categories/Hadoop/%E5%A4%A7%E6%95%B0%E6%8D%AE/
