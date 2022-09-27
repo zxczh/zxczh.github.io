@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zxczh.github.io/2022/09/27/Hadoop-3.3.0-Centos7-64bit_%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E8%AF%A6%E8%A7%A3/</loc>
+    
+    <lastmod>2022-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://zxczh.github.io/2022/09/17/%E5%9C%A8%E6%82%A8%E7%9A%84centOS%E4%B8%8A%E8%BF%90%E8%A1%8C%E4%B8%80%E8%BE%86%E5%B0%8F%E7%81%AB%E8%BD%A6/</loc>
     
     <lastmod>2022-09-17</lastmod>
@@ -76,36 +85,43 @@
 
   <url>
     <loc>http://zxczh.github.io/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <lastmod>2022-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://zxczh.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE-Hadoop/</loc>
+    <lastmod>2022-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://zxczh.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zxczh.github.io/tags/hexo/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zxczh.github.io/tags/Java/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zxczh.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -113,22 +129,29 @@
 
   
   <url>
-    <loc>http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <loc>http://zxczh.github.io/categories/Hadoop-%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
+    <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://zxczh.github.io/categories/Java/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <loc>http://zxczh.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://zxczh.github.io/categories/Linux/</loc>
-    <lastmod>2022-09-17</lastmod>
+    <lastmod>2022-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://zxczh.github.io/categories/Java/</loc>
+    <lastmod>2022-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
