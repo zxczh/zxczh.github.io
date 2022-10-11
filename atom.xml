@@ -6,7 +6,7 @@
   <link href="http://zxczh.github.io/atom.xml" rel="self"/>
   
   <link href="http://zxczh.github.io/"/>
-  <updated>2022-10-11T05:41:59.577Z</updated>
+  <updated>2022-10-11T05:46:49.757Z</updated>
   <id>http://zxczh.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zxczh.github.io/2022/10/11/Typora%E7%9A%84%E7%94%A8%E6%B3%95/"/>
     <id>http://zxczh.github.io/2022/10/11/Typora%E7%9A%84%E7%94%A8%E6%B3%95/</id>
     <published>2022-10-11T05:39:53.000Z</published>
-    <updated>2022-10-11T05:41:59.577Z</updated>
+    <updated>2022-10-11T05:46:49.757Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Typora的使用"><a href="#Typora的使用" class="headerlink" title="Typora的使用"></a>Typora的使用</h1><h2 id="模式切换"><a href="#模式切换" class="headerlink" title="模式切换"></a>模式切换</h2><p>源代码模式 Ctrl + &#x2F;</p><h2 id="文字处理"><a href="#文字处理" class="headerlink" title="文字处理"></a>文字处理</h2><p>一级标题 - 六级标题</p><p>ctrl + （1 -6）</p><p>降低标题级别 Ctrl + -</p><p>提高标题级别 Ctrl + &#x3D;</p><h2 id="list列表处理"><a href="#list列表处理" class="headerlink" title="list列表处理"></a>list列表处理</h2><p>降级快捷键 Tab</p><p>升级快捷键 Shift + Tab</p><p>选中整行 Ctrl + L</p><p><strong>加粗 Ctrl + B</strong></p><blockquote><p>引用 Ctrl + Shift + Q</p></blockquote><p><em>字体倾斜 Ctrl + i</em></p><p>高亮     &#x3D;&#x3D;高亮展示&#x3D;&#x3D; 记得要在偏好设置中的拓展语法中打开才能使用</p><p>Ctrl + Shift + L 显示&#x2F;隐藏侧边栏</p><p>下划线 Ctrl + U<u>这是下划线实例</u></p><p>删除线 Alt + Shift +5 <del>这是删除线实例</del></p><p>无序列表 Ctrl + Shift + ]</p><ul><li>无序列表实例<ul><li>Tab键进入子序列<ul><li>同样是Tab键</li></ul></li></ul></li><li>ENTER 返回列表上级</li></ul><p><strong>表格</strong></p><p>ctrl + T</p><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><p><strong>分割线</strong></p><p>三个或以上 - 或者 * 并回车出现分割线</p><hr><p>插入本地图片 直接拖入图片</p><p>插入网络图片 <img src="D:\Projects\Markdown\学习Markdown\图片链接" alt="图片标题"> </p><p>快捷键 CTRL + shift + i</p><p>插入链接 CTRL + K <a href="%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80">链接实例</a></p><p><strong>代码块 CTRL + shift + K</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><h2 id="关于数学公式"><a href="#关于数学公式" class="headerlink" title="关于数学公式"></a>关于数学公式</h2><p>$$并且回车 以下是公式示例<br>$$<br>x^2  y_1 \frac{1}{2} \cdots \sqrt{2} \vec{a} \int{x}dx<br>\int_{1}^2{x}dx<br>$$</p><ul><li>x^2 </li><li>y_1</li><li>\frac{1}{2}</li><li>\cdots \sqrt{2}</li><li>\vec{a}</li><li>\int{x}dx </li><li>\int_{1}^2{x}dx</li></ul><p>此外还有大部分都支持，用得着再查吧</p>]]></content>
     
